@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="626px" height="129px" viewBox="0 0 626 129" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 2</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-2">
+            <g id="Group" fill="#FD6481">
+                <g id="Logo">
+                    <path d="M65.1730391,66 L129,66 C126.263933,95.4575918 112.679426,114.889791 88.246478,124.296597 C63.8135302,133.703403 40.7313708,129 19,110.186388 L41.8080039,88.4394434 C50.0996857,94.4798145 57.8880308,97.5 65.1730391,97.5 C72.4580474,97.5 79.267546,94.7289342 85.6015349,89.1868025 L65.1730391,66 Z" id="Bottom"></path>
+                    <path d="M0,64 L32.5858755,64 C33.8724209,47.9532486 41.4722785,37.8855851 55.3854484,33.7970094 C69.2986184,29.7084338 81.0294377,33.9198094 90.5779065,46.4311361 L116,25.5748736 C94.5915979,1.50470667 69.8478185,-5.57496762 41.7686616,4.33585078 C15.831813,13.4905201 1.90892576,33.3785699 0,64 Z" id="Top"></path>
+                </g>
+            </g>
+            <text id="GroovePages" font-family="AvenirNext-Medium, Avenir Next" font-size="75" font-weight="400" letter-spacing="-1.15384614" fill="#ECF0F1">
+                <tspan x="166.446154" y="92">Groove</tspan>
+                <tspan x="415.948077" y="92" font-family="AvenirNext-Bold, Avenir Next" font-weight="bold">Pages</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
