@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="315" height="65" viewBox="0 0 315 65">
+    <g fill="none" fill-rule="evenodd">
+        <g fill="#FD6481" fill-rule="nonzero">
+            <path d="M32.587 33H64.5c-1.368 14.729-8.16 24.445-20.377 29.148C31.907 66.852 20.366 64.5 9.5 55.093L20.904 44.22c4.146 3.02 8.04 4.53 11.683 4.53 3.642 0 7.047-1.386 10.214-4.157L32.587 33zM0 32h16.293c.643-8.023 4.443-13.057 11.4-15.101 6.956-2.045 12.822.06 17.596 6.317L58 12.787C47.296.752 34.924-2.787 20.884 2.167 7.916 6.746.954 16.69 0 32z"/>
+        </g>
+        <text fill="#ECF0F1" font-family="AvenirNext-Regular, Avenir Next" font-size="37.5">
+            <tspan x="83.223" y="46.5">Groove</tspan>
+        </text>
+        <text fill="#ECF0F1" font-family="AvenirNext-Bold, Avenir Next" font-size="37.5" font-weight="bold">
+            <tspan x="207.974" y="46.5">Pages</tspan>
+        </text>
+    </g>
+</svg>
